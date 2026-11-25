@@ -10,4 +10,4 @@
 - [タイ編（2026-12-02）](thai/README.md) — 全24ログ、完結
 - [台湾編（2027-01-13）](taiwan/README.md) — 全23ログ、完結
 - [ベトナム編（2027-01-25）](vietnam/README.md) — 全17ログ、完結
-- [フィリピン編（2027-02-05）](philippines/README.md) — 全16ログ
+- [フィリピン編（2027-02-05）](philippines/README.md) — 全16ログ、完結
